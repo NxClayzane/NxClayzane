@@ -2,8 +2,10 @@
 #### i am a developer in PYTHON/C#/HTML 
 ![i am a developer in PYTHON/C#/HTML ](https://pbs.twimg.com/profile_banners/1070974374008754176/1611130296/600x200)
 
-MY real name is : ABHINAVUTR
-I am from : India.Kerala.But I live in Dubia
+MY real name is : ABHINAVUTR.
+
+I am from : India.Kerala.But I live in Dubia.
+
 MY weakness : science & technology 
 
 Skills: PYTHON/C#/HTML
