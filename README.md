@@ -18,7 +18,7 @@ Skills: PYTHON/C#/HTML
 - 🌱 I’m currently mastering Python
 - 🤔 I’m looking for help with PRO coders 
 - 💬 my hobby is learningscience & coding, play minecraft at free times
-- 📫 How to reach me: https://dev.to/nxclayzane ( Discord )
+- 📫 How to reach me: https://discord.gg/76b3V9xkWd ( Discord )
 - ⚡ Fun fact: Science & tech is my weakness 
 
 
