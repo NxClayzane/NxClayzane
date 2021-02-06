@@ -1,20 +1,24 @@
 ### Hi there 👋, My name  is CLAYZANE
-#### i am a developer in PYTHON/C#/HTML 
+#### i am a developer in PYTHON/C#/HTML/java
 ![i am a developer in PYTHON/C#/HTML ](https://pbs.twimg.com/profile_banners/1070974374008754176/1611130296/600x200)
 
 MY real name is : ABHINAVUTR.
 
-I am from : India.Kerala.But I live in Dubia.
+I am from IN-KL
+But I lives in AE-DXB
+
+#PeopleCallMeBOB
+Follow me on dicord - Clayzane#6458
 
 MY weakness : science & technology 
 
 Skills: PYTHON/C#/HTML
 
 - 🔭 I’m currently working on AI_SYSTEM  
-- 🌱 I’m currently learning c# 
+- 🌱 I’m currently mastering Python
 - 🤔 I’m looking for help with PRO coders 
-- 💬 Ask me about hobby, science & coding 
-- 📫 How to reach me: Discord : Clayzane#6458 
+- 💬 my hobby is learningscience & coding, play minecraft at free times
+- 📫 How to reach me: https://dev.to/nxclayzane ( Discord )
 - ⚡ Fun fact: Science & tech is my weakness 
 
 
