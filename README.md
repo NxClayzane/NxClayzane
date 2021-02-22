@@ -12,7 +12,7 @@ Follow me on dicord - Clayzane#6458
 
 MY weakness : science & technology 
 
-Skills: PYTHON/C#/HTML
+Skills: PYTHON/JAVA
 
 - 🔭 I’m currently working on AI_SYSTEM  
 - 🌱 I’m currently mastering Python
