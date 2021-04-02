@@ -12,7 +12,7 @@ Follow me on dicord - Nx.Clayzane#6458
 
 MY weakness : science & technology 
 
-Skills: PYTHON/JAVA
+Skills: PYTHON/JS
 
 - 🔭 I’m currently working on AI_SYSTEM  
 - 🌱 I’m currently mastering Python & js
