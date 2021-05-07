@@ -1,5 +1,5 @@
 ### Hi there 👋, My name  is CLAYZANE
-#### i am a developer in PYTHON & Js
+#### i am a Developer & Highschool student:)
 ![i am a developer in PYTHON/C#/HTML ](https://pbs.twimg.com/profile_banners/1070974374008754176/1611130296/600x200)
 
 
