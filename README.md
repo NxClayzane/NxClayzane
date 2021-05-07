@@ -1,28 +1,27 @@
 ### Hi there 👋, My name  is CLAYZANE
 #### i am a developer in PYTHON & Js
 ![i am a developer in PYTHON/C#/HTML ](https://pbs.twimg.com/profile_banners/1070974374008754176/1611130296/600x200)
-Ik wut your are thinking 💭"Why there is no any repos?"
 
-tbh, i don't want to post any hard work which are very important to me...
+
 -----------------------------------------------------------------------------------------------------------------------------
-But i will post some simple & large projects.
+i post simple & large projects.
 
 
-MY real name is : ABHINAVUTR.
+MY real name is : ABHINAV
 
 I am from IN-KL
 But I lives in AE-DXB
 
 #PeopleCallMeBOB
-Follow me on dicord - Nx.Clayzane#6458
+Follow me on dicord - Dev.Clayzane.cat#6458
 
 MY weakness : science & technology 
 
-Skills: PYTHON/JS/Java/HTML
+Skills: PYTHON/JS/Java/HTML/C++
 
-- 🔭 I’m currently working on Minecraft plugin
-- 🌱 I’m currently mastering Python & java
-- 🤔 I’m looking for help with PRO coders 
+- 🔭 I am working for 𒈞Ͳenreᴄk Company:D
+- 🌱 I am a HighSchool Student
+- 🤔 I’m looking for friends so add me in discord or any social medias...
 - 💬 my hobby is learning science & coding, play minecraft at free times
 - 📫 How to reach me: https://discord.gg/9RxnUvTVKe ( Discord )
 - ⚡ Fun fact: Science & tech is my weakness 
