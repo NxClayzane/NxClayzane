@@ -13,11 +13,11 @@ I am from IN-KL
 But I lives in AE-DXB
 
 ----------------------------------------------------------------------------------------------------------------------------
-https://www.google.com/search?q=discord&safe=strict&sxsrf=ALeKk00wSv1LiFn3PJKOmRClmkNFBbIgug:1622575536270&tbm=isch&source=iu&ictx=1&fir=x0q53GFDttuoDM%252C0eC25T9YlDvNZM%252C%252Fg%252F11cjpb9d52&vet=1&usg=AI4_-kSQ26ZtkOI09alaTz5D3AAmJeRENA&sa=X&ved=2ahUKEwiCnNfzlPfwAhWH_KQKHYEoA4YQ_B16BAhXEAE#imgrc=x0q53GFDttuoDM discord - Clayzane#6458
+DISCORD - Clayzane#6458
 ----------------------------------------------------------------------------------------------------------------------------
-Follow me on instagram - abhinavu_rajan
+INSTAGRAM - abhinavu_rajan
 ----------------------------------------------------------------------------------------------------------------------------
-Follow me on twitter - @Clayzane2
+TWITTER - @Clayzane2
 ----------------------------------------------------------------------------------------------------------------------------
 
 Dm me in any social media to join 𒈞Ͳenreᴄk Organization (Web_dev, Universal Os App development, gameDev etc.
