@@ -12,7 +12,7 @@ MY real name is : ABHINAVU
 I am from IN-KL
 But I lives in AE-DXB
 
-#PeopleCallMeBOB
+----------------------------------------------------------------------------------------------------------------------------
 Follow me on dicord - Clayzane#6458
 Follow me on instagram - abhinavu_rajan
 Follow me on twitter - @Clayzane2
@@ -36,6 +36,7 @@ Skills: PYTHON/JS/Java/HTML,css/C++
 - 📫 How to reach me: https://discord.gg/9RxnUvTVKe ( Discord )
 - ⚡ Fun fact: Science & tech is my weakness 
 
+----------------------------------------------------------------------------------------------------------------------------
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NxClayzane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nxclayzane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/nxclayzane)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14975698/clayzane)  
 
