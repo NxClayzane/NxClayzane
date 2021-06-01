@@ -4,13 +4,13 @@
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-i post simple & large projects.
-
-
 MY real name is : ABHINAVU
 
 I am from IN-KL
+
 But I lives in AE-DXB
+
+Currently working as COO for *𒈞Ͳenreᴄk Organization*
 
 ----------------------------------------------------------------------------------------------------------------------------
 DISCORD - Clayzane#6458
@@ -19,7 +19,9 @@ INSTAGRAM - abhinavu_rajan
 ----------------------------------------------------------------------------------------------------------------------------
 TWITTER - @Clayzane2
 ----------------------------------------------------------------------------------------------------------------------------
+Contact me through mail : abhinavutr.rajan@gmail.com
 
+-----------------------------------------------------------------------------------------------------------------------------
 Dm me in any social media to join 𒈞Ͳenreᴄk Organization (Web_dev, Universal Os App development, gameDev etc.
 
 I am always online in discord. so send me friend req. i will accept :)
