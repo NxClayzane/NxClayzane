@@ -13,7 +13,7 @@ I am from IN-KL
 But I lives in AE-DXB
 
 ----------------------------------------------------------------------------------------------------------------------------
-Follow me on dicord - Clayzane#6458
+Follow me on discord - Clayzane#6458
 Follow me on instagram - abhinavu_rajan
 Follow me on twitter - @Clayzane2
 ----------------------------------------------------------------------------------------------------------------------------
