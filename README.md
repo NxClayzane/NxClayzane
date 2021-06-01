@@ -16,6 +16,14 @@ But I lives in AE-DXB
 Follow me on dicord - Clayzane#6458
 Follow me on instagram - abhinavu_rajan
 Follow me on twitter - @Clayzane2
+----------------------------------------------------------------------------------------------------------------------------
+
+Dm me in any social media to join 𒈞Ͳenreᴄk Organization (Web_dev, Universal Os App development, gameDev etc.
+
+I am always online in discord. so send me friend req. i will accept :)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
 
 MY weakness : science & technology 
 
