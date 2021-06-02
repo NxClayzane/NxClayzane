@@ -1,9 +1,9 @@
 ### Hi there 👋, My name  is CLAYZANE
 #### i am a Developer & Highschool student:)
-![i am a developer in PYTHON/C++/html,css/Js/java ]
-
-
-
+##### Do your guys actually read this yet? 🤔
+----------------------------------------------------------------------
+join my Discord server and have fun with me
+{https://discord.gg/tcpUPpZThR}
 
 -----------------------------------------------------------------------------------------------------------------------------
 MY real name is : ABHINAVU
@@ -39,7 +39,6 @@ Skills: PYTHON/JS/Java/HTML,css/C++
 - 🌱 I am a HighSchool Student
 - 🤔 I’m looking for friends so add me in discord or any social medias...
 - 💬 my hobby is learning science & coding, play minecraft at free times
-- 📫 How to reach me: https://discord.gg/9RxnUvTVKe ( Discord )
 - ⚡ Fun fact: Science & tech is my weakness 
 
 ----------------------------------------------------------------------------------------------------------------------------
