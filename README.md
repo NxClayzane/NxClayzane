@@ -1,6 +1,6 @@
 ### Hi there 👋, My name  is CLAYZANE
 #### i am a Developer & Highschool student:)
-![i am a developer in PYTHON/C++/html,css/Js/java ](https://pbs.twimg.com/profile_banners/1070974374008754176/1611130296/600x200)
+![i am a developer in PYTHON/C++/html,css/Js/java ](https://twitter.com/Clayzane2/header_photo)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
