@@ -3,10 +3,6 @@
 ##### Do your guys actually read this yet? 🤔
 ----------------------------------------------------------------------
 
-I am from IN-KL 🇮🇳
-
-But I lives in AE-DXB 🇦🇪
-
 Currently working as COO for *𒈞Ͳenreᴄk Organization*
 
 ----------------------------------------------------------------------------------------------------------------------------
@@ -16,7 +12,7 @@ INSTAGRAM - abhinavu_rajan
 ----------------------------------------------------------------------------------------------------------------------------
 TWITTER - @Clayzane2
 ----------------------------------------------------------------------------------------------------------------------------
-Contact me through mail : abhinavutr.rajan@gmail.com
+Contact me through mail : abhinavu@tenreck.tech
 
 -----------------------------------------------------------------------------------------------------------------------------
 Dm me in any social media to join 𒈞Ͳenreᴄk Organization (Web_dev, Universal Os App development, gameDev etc.
