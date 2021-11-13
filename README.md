@@ -21,9 +21,6 @@ I am always online in discord. so send me friend req. i will accept :)
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-
-MY weakness : science & technology 
-
 Skills: PYTHON/JS/Java/HTML,css/C++
 
 - 🔭 I am working for 𒈞Ͳenreᴄk Company:D
