@@ -20,8 +20,21 @@ Dm me in any social media to join 𒈞Ͳenreᴄk Organization (Web_dev, Universa
 I am always online in discord. so send me friend req. i will accept :)
 
 -----------------------------------------------------------------------------------------------------------------------------
+##SKILLS
+        Python : "Django Backend Development", "API Development", "Automations"
+        Java : "Course management system", "Virtual private network Development"
+        HTML/CSS/JS : 
+              {React.js: Frontend Development, Node.js: "Backend server development", electron.js: "Universal Desktop App development"}
+        C# : "Unity Game development"
+        C++ : Null
+        PHP : "Beginner"
+        
+"Docker" "GitHub" "Git" "AWS" "Azure" "shell" etc
 
-Skills: PYTHON/JS/Java/HTML,css/C++
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 - 🔭 I am working for 𒈞Ͳenreᴄk Company:D
 - 🌱 I am a HighSchool Student
