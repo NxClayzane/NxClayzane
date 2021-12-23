@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **Tenreck is growing**
 
-### Blogs posts
+https://linktr.ee/Clayzane
 
 
 
