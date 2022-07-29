@@ -15,9 +15,9 @@
 
 - 💬 Known JS FrameWork **react & electron**
 
-- 📫 How to reach me **abhinavutr.rajan@gmail.com**
+- 📫 How to reach me **abhinavutr.rajan@gmail.com Or connect me through discord :: Clayzane#5354 **
 
-- ⚡ Fun fact **Tenreck is growing**
+- ⚡ **rewriting my entire website**
 
 https://linktr.ee/Clayzane
 
