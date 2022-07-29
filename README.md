@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/clayzane2" target="blank"><img src="https://img.shields.io/twitter/follow/clayzane2?logo=twitter&style=for-the-badge" alt="clayzane2" /></a> </p>
 
-- 🔭 I’m currently working for [Tenreck.inc](https://tenreck.com/)
+- 🔭 I’m currently working for [myself :)](https://github.com/NxClayzane)
 
 - 🌱 I’m currently learning **C# & Unity for game Development, JS With WebGL**
 
