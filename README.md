@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm AbhinavuTR (AKA "Clayzane")</h1>
 <h3 align="center">i am a Developer & Highschool student:)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nxclayzane&label=Profile%20views&color=b009ec&style=plastic" alt="nxclayzane" /> </p>
+<p align="left"> <a href="https://twitter.com/DaRealClayzane" target="blank"><img src="https://img.shields.io/twitter/follow/clayzane2?logo=twitter&style=for-the-badge" alt="DaRealClayzane" /></a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nxclayzane" alt="nxclayzane" /></a> </p>
+#JustChilling with coffee ☕ 
 
-<p align="left"> <a href="https://twitter.com/clayzane2" target="blank"><img src="https://img.shields.io/twitter/follow/clayzane2?logo=twitter&style=for-the-badge" alt="clayzane2" /></a> </p>
 
-- 🔭 I’m currently working for [myself :)](https://github.com/NxClayzane)
-
-- 🌱 I’m currently learning **C# & Unity for game Development, JS With WebGL**
-
-- 👨‍💻 All of my projects are available at [https://clayzane.ml/](https://clayzane.ml/)
-
-- 💬 Known JS FrameWork **react & electron**
-
-- 📫 How to reach me **abhinavutr.rajan@gmail.com Or connect me through discord :: Clayzane#5354 **
-
-- ⚡ **rewriting my entire website**
-
-https://linktr.ee/Clayzane
 
 
 
