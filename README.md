@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/DaRealClayzane" target="blank"><img src="https://img.shields.io/twitter/follow/clayzane2?logo=twitter&style=for-the-badge" alt="DaRealClayzane" /></a> </p>
 
-#JustChilling with coffee ☕ 
 
-##Discord TAG :: Clayzane#5354
+
+
+<h1 align="center">JustChilling with coffee ☕</h1>
+<h2 align="center">Discord TAG :: Clayzane#5354</h2>
 
 
 
